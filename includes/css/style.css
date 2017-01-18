@@ -38,10 +38,6 @@ body {
     -o-background-size: cover;
 }
 
-.row {
-	display: inline-block;
-}
-
 .footer {
 	background-color: #337ab7;
 	color: #fff;
